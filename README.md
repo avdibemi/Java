@@ -1,1 +1,1 @@
-# Introduction into prgoramming with JAV
+# Introduction into prgoramming with JAVA
